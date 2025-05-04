@@ -9,7 +9,6 @@ A simple and fun graphical dice rolling app built with Python's `tkinter`. Click
 ## 🖥️ Preview
 
 ![Example Output](preview.png)  
-*(Add a screenshot named `preview.png` to your repo to show what the app looks like)*
 
 ## 📦 Features
 
@@ -28,5 +27,5 @@ A simple and fun graphical dice rolling app built with Python's `tkinter`. Click
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/dice-roller-simulator.git
+git clone https://github.com/chamo111/dice-roller-simulator.git
 cd dice-roller-simulator
